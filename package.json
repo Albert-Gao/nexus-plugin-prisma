@@ -41,7 +41,7 @@
     "pluralize": "^8.0.0"
   },
   "devDependencies": {
-    "@nexus/schema": "^0.15.0",
+    "@nexus/schema": "0.15.0",
     "@prisma-labs/prettier-config": "0.1.0",
     "@prisma/cli": "2.7.0",
     "@prisma/client": "2.7.0",
